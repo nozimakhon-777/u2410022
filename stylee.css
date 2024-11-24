@@ -1,0 +1,26 @@
+.main-text {
+    color:rgb(16, 51, 116);
+}
+#text-in-p{
+    color: rgb(244, 147, 11);
+}
+h3{
+    color: rgb(13, 51, 120);
+}
+ul{
+    color: darkgrey;
+}
+b{
+    color: blueviolet;
+}
+.main-link:hover {
+    color: aqua;
+ text-decoration-color: yellow ;
+ text-decoration: underline;
+}
+body{
+    background-color: rgb(124, 156, 191) ;
+}
+button{
+    color: black;
+}
